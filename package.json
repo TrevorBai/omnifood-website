@@ -10,6 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "normalize.css": "^8.0.1"
+    "html5shiv": "^3.7.3",
+    "normalize.css": "^8.0.1",
+    "respond.js": "^1.4.2",
+    "selectivizr": "^1.0.3"
   }
 }
